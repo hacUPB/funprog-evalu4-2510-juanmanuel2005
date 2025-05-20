@@ -302,12 +302,14 @@ int encontrarMaximo(int arr[], int tamaño) {
 ## Preguntas finales para reforzar el aprendizaje
 
 1. ¿Cuál es exactamente la diferencia entre un arreglo y un puntero?     
-**R//**       
+**R//**
+   
 | Arreglo                          | Puntero                             |
 | -------------------------------- | ----------------------------------- |
 | Tiene un tamaño fijo             | Puede apuntar a cualquier dirección |
 | Se reserva espacio al declararlo | Puede cambiar de dirección          |
-| No se puede reasignar            | Se puede modificar                  |    
+| No se puede reasignar            | Se puede modificar                  |
+        
      
 2. ¿Cómo están almacenados en la memoria los elementos de una matriz?    
 **R//** Están almacenados en forma lineal y continua en memoria.    
