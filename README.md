@@ -34,7 +34,7 @@ Integrar todos los conceptos aprendidos (manejo de archivos, arreglos, memoria d
 | [Cadenas de caracteres](CADENA_DE_CARACTERES/BITACORA.md)        | Manipulación segura de texto, funciones de `<string.h>` y `<ctype.h>`.     |
 | [Memoria dinámica](MEMORIA_DINAMICA/BITACORA.md)             | Reservar, reutilizar y liberar memoria en tiempo de ejecución con `malloc`, `calloc`, `realloc`, `free`. |
 | [Archivos de datos](ARCHIVOS_DE_DATOS/BITACORA.md)           | Lectura, escritura y modificación de archivos `.txt` para almacenamiento persistente. |
-| [Reto final](RETOS/RETO.md)         | Proyecto integrador con menú interactivo para análisis y modificación de texto desde archivos. |
+| [Reto final](RETOS/sustentacion_reto_U4.md)         | Proyecto integrador con menú interactivo para análisis y modificación de texto desde archivos. |
 
 
 
